@@ -1,0 +1,8 @@
+deploy_password=Violino@123
+mysql_root_password=Violino@123
+db_pass=Violino@123
+jwt_secret=uSd9mHPXnKxrgZ8Co
+jwt_refresh_secret=uSd9mHIXnSxrgZ8Co
+deploy_email=lucasmvlog3@gmail.com
+db_user=root
+db_name=whaticket
